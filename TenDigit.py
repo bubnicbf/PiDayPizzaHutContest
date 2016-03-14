@@ -15,5 +15,5 @@ for a in ['1','3','7','9']:
                                 	number8 = int(a+b+c+d+'5'+f+g+h)
                                 	number9 = int(a+b+c+d+'5'+f+g+h+i)
                                 	if number2%2==0 and number3%3==0 and number4%4==0 and number6%6==0 and number7%7==0 and number8%8==0 and number9%9==0:
-                                		print number9
-                                		#381654729
+                                		print number9*10
+                                		#3816547290
